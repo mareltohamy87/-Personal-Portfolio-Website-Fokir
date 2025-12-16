@@ -26,9 +26,6 @@ Below is a preview image of the project interface:
 <img width="1842" height="733" alt="blog-section" src="https://github.com/user-attachments/assets/c00f0692-e68a-4948-ac83-13bd4b86032a" />
 <img width="1850" height="542" alt="about-section" src="https://github.com/user-attachments/assets/fec77fb6-7eb2-4482-b1c8-a74ab16abaef" />
 
-
-> 📌 *Note:* Upload a screenshot of your project inside the `images` folder and name it `project-preview.png`.
-
 ---
 
 ## 🚀 Live Demo
